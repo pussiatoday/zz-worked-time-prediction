@@ -1,3 +1,5 @@
+**Was suspended long ago, is to be archived. Before archiving the repo, I’m going to rename it from `zz-worked-time-prediction` to `worked-time-prediction`, because I’m as of now dropping this ISO-3166-1-alpha-2-based naming scheme for my personal repos. It shouldn’t hurt anyone, as I don’t believe anyone had it referenced or cloned before, including myself.**
+
 https://rayyan-social.qcri.org/main-forum/how-do-you-calculate-the-time-spent-on-screening/
 
 How do you calculate the time spent on screening?  
